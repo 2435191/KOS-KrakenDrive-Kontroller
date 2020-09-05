@@ -1,2 +1,2 @@
 # KOS-KrakenDrive-Kontroller
-Hey, I might update this for multiple "engines."
+I updated this for multiple engines. The "full version" is "krakendrive.ks".
